@@ -9,8 +9,4 @@
   - Your generated app comes with a simple example contract which you can deploy, test and interact with directly.
 - 👛 **Powered by WalletConnect**.
   - Connect to secure wallets.
-- 🏗️ **It's typed, and pretty.**
-  - It comes pre-configured with TypeScript to help write applications that _scale_.
-- 😉 **And it's ready to go.**
-  - Built applications come pre-packaged
-  - Projects are initialized using deep linking so external navigation is a breeze.
+
